@@ -42,7 +42,7 @@ namespace ToDoList.Tests
 
     [TestMethod]
     public void GetAll_ReturnsEmptyList_ItemList()
-    {
+i    {
       List<Item> newList = new List<Item> { };
       List<Item> result = Item.GetAll();
       CollectionAssert.AreEqual(newList, result);
