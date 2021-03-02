@@ -24,10 +24,11 @@ C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\scop
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.TagHelpers.input.cache
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.TagHelpers.output.cache
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.RazorCoreGenerate.cache
-C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.RazorTargetAssemblyInfo.cache
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.RazorTargetAssemblyInfo.cs
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.Views.pdb
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.genruntimeconfig.cache
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CopyComplete
-C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Home\CreateForm.cshtml.g.cs
+C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\Index.cshtml.g.cs
+C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\CreateForm.cshtml.g.cs
+C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
