@@ -30,3 +30,4 @@ C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDo
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.Views.pdb
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.genruntimeconfig.cache
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CopyComplete
+C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Home\CreateForm.cshtml.g.cs
