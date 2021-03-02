@@ -1,0 +1,12 @@
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\bin\Debug\net5.0\ProjectName.deps.json
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\bin\Debug\net5.0\ProjectName.dll
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\bin\Debug\net5.0\ref\ProjectName.dll
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\bin\Debug\net5.0\ProjectName.pdb
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.csprojAssemblyReference.cache
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.AssemblyInfoInputs.cache
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.AssemblyInfo.cs
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.csproj.CoreCompileInputs.cache
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.dll
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ref\ProjectName.dll
+C:\Users\MDPin\Desktop\Epicodus\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.pdb
