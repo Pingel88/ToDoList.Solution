@@ -30,6 +30,7 @@ C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDo
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.genruntimeconfig.cache
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CopyComplete
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\Index.cshtml.g.cs
-C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\CreateForm.cshtml.g.cs
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\DeleteAll.cshtml.g.cs
+C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\New.cshtml.g.cs
+C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\Show.cshtml.g.cs
