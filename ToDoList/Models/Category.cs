@@ -22,10 +22,15 @@ namespace ToDoList.Models
       return _instances;
     }
 
-      public static Category Find(int searchId)
-      {
-        return _instances[searchId-1];
-      }
+    public static Category Find(int searchId)
+    {
+      return _instances[searchId-1];
+    }
+
+    public void AddItem(Item item)
+    {
+      Items.Add(item);
+    }
 
     public static void ClearAll()
     {
