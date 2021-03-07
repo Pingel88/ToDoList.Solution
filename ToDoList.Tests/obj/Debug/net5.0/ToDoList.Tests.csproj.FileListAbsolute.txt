@@ -101,3 +101,4 @@ C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.Views.dll
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.Views.pdb
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.exe
+C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\MySqlConnector.dll

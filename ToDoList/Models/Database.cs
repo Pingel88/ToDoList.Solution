@@ -8,7 +8,7 @@ namespace ToDoList.Models
   {
     public static MySqlConnection Connection()
     {
-      MySqlConnect conn = new MySqlConnection(DBConfiguration.ConnectionString);
+      MySqlConnection conn = new MySqlConnection(DBConfiguration.ConnectionString);
       return conn;
     }
   }
