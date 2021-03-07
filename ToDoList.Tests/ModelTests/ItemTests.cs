@@ -85,5 +85,13 @@ namespace ToDoList.Tests
     //   Item result = Item.Find(2);
     //   Assert.AreEqual(newItem2, result);
     // }
+
+    [TestMethod]
+    public void Equals_ReturnsTrueIfDescriptionsAreTheSame_Item()
+    {
+      Item firstItem = new Item ("Mow the lawn");
+      Item secondItem = new Item ("Mow the lawn");
+      Assert.AreEqual(firstItem, secondItem);
+    }
   }
 }
