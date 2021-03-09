@@ -41,3 +41,4 @@ C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\bin\Debug\net5.0\Micr
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\Index.cshtml.g.cs
 C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\Create.cshtml.g.cs
+C:\Users\MDPin\Desktop\Epicodus\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Items\Details.cshtml.g.cs
